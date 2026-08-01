@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Locks the layer to the centre of the tracked object, so it travels with the subject.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
